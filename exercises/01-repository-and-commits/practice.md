@@ -1,2 +1,3 @@
 # Git Practice
- Learning Git through hands-on practice.
+
+Learning Git through hands-on practice.
